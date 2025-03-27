@@ -1,4 +1,4 @@
-# Studio Ghibli AI Image Generator[Click to Try for Free🚀🚀](https://studioghibli-generator.space/)
+# [Studio Ghibli AI Image Generator](https://studioghibli-generator.space/)Click to Try for Free🚀🚀
 
 An intuitive web application that transforms your ideas into authentic Studio Ghibli style artwork using specialized AI technology.
 
